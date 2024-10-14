@@ -1,0 +1,2 @@
+# PDFchat
+ basic rag application
